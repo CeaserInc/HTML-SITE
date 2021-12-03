@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: #76A2F4;
+    color: #f8f9fa;
+}
+nav{
+    background-color: #1761EC;
+    margin-bottom: 20px;
+}
+nav a{
+    font-weight: 600;
+}
+p{
+    font-weight: 500;
+}
+ul{
+    list-style-position: inside;
+}
+a{
+    color: rgba(0, 102, 219, 0.9);
+}
+a:hover{
+    color: #0066DB;
+}
+.lightSVG{
+    fill: #f8f9fa;
+}
+img{
+    max-width: 90%;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
