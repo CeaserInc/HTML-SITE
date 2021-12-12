@@ -56,7 +56,7 @@ p{
     text-align:left;
 }
 p{
-    font-size: 14;
+    font-size: 20;
 }
 @media screen and (max-device-width: 767px) { 
     .navbar-brand{
