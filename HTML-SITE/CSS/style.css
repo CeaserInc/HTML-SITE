@@ -32,6 +32,6 @@ p{
 }
 @media screen and (max-device-width: 767px) { 
     .navbar-brand{
-        font-size: 7vw;
+        font-size: 7vw !important;
     }
   }
