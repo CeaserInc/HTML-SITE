@@ -38,6 +38,7 @@ img{
 }
 p{
     margin: 0 8vw;
+    font-size: 20;
 }
 .navbar-brand{
     font-size: 36; 
@@ -55,24 +56,3 @@ p{
     padding: 2px 5px;
     text-align:left;
 }
-p{
-    font-size: 20;
-}
-@media screen and (max-device-width: 767px) { 
-    .navbar-brand{
-        font-size: 7vw !important;
-    }
-    .navbar-toggler{
-        padding: 0;
-    }
-    p{
-        font-size: 4vw;
-    }
-    h1{
-        font-size: 6.5vw;
-    }
-    big{
-        float: none;
-        margin: 20px auto 10px auto !important;
-    } 
-  }
