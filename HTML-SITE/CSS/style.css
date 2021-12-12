@@ -38,4 +38,7 @@ p{
     .navbar-brand{
         font-size: 7vw !important;
     }
+    .navbar-toggler{
+        padding: 0;
+    }
   }
