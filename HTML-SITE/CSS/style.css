@@ -27,3 +27,11 @@ img{
     margin-left: 10px;
     margin-right: 10px;
 }
+p{
+    margin: 0 8vw;
+}
+@media screen and (max-device-width: 767px) { 
+    .navbar-brand{
+        font-size: 7vw;
+    }
+  }
