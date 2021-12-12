@@ -43,9 +43,16 @@ p{
     font-size: 36; 
     font-weight: 400;
 }
-.center{
-    width:200px;
-    margin:0 auto;
+.center {
+    text-align: center;
+}
+.center ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+.center li {
+    padding: 2px 5px;
     text-align:left;
 }
 @media screen and (max-device-width: 767px) { 
