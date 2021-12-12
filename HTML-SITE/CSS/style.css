@@ -17,6 +17,9 @@ ul{
 a{
     color: rgba(0, 102, 219, 0.9);
 }
+.source{
+   color:beige !important; 
+}
 a:hover{
     color: #0066DB;
 }
@@ -40,6 +43,11 @@ p{
     font-size: 36; 
     font-weight: 400;
 }
+.center{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
 @media screen and (max-device-width: 767px) { 
     .navbar-brand{
         font-size: 7vw !important;
@@ -53,4 +61,8 @@ p{
     h1{
         font-size: 6.5vw;
     }
+    big{
+        float: none;
+        margin: 20px auto 10px auto !important;
+    } 
   }
