@@ -20,12 +20,18 @@ a{
 a:hover{
     color: #0066DB;
 }
-
 img{
+    margin: 20px 10px 0px 10px;
+    outline: solid black;
+}
+.longimg{
     max-width: 60%;
     height: auto;
-    margin-left: 10px;
-    margin-right: 10px;
+}
+.tallimg{
+    max-height: 60%;
+    width: auto;
+    float: left;
 }
 p{
     margin: 0 8vw;
