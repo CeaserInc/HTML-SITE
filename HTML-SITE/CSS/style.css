@@ -78,4 +78,9 @@ p{
         float: none;
         margin: 20px auto 10px auto !important;
     } 
+    .caption {
+        font-size: 4vw;
+        color: aliceblue;
+        text-align: left;
+    }
   }
