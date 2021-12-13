@@ -56,7 +56,11 @@ p{
     padding: 2px 5px;
     text-align:left;
 }
-@media screen and (min-device-width: 768px) { 
+.caption {
+    font-size: 14;
+    color:grey;
+}
+@media screen and (max-device-width: 768px) { 
     .navbar-brand{
         font-size: 7vw !important;
     }
